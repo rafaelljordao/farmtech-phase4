@@ -1,0 +1,10 @@
+{
+  "soil_moisture": 42.5,
+  "temperature": 24.3,
+  "humidity": 65.1,
+  "ph_soil": 6.8,
+  "nutrient_level": 54.0,
+  "rainfall": 0.0,
+  "irrigation_active": false,
+  "system_error": false
+}

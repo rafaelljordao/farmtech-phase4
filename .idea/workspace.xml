@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5c9332e-d413-49a3-9a1c-e39d3948ef5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/arduino/farmtech_esp32.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/api/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/api/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/dashboard/streamlit_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/models/body.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/models/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/models/irrigation_predictor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/simple_ingest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rafaelljordao"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rafaelljordao/farmtech-phase3.git",
+    "accountId": "e98ad02b-7d18-469c-9776-f9f5dcfbabbf"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -34,15 +56,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.feature_engineering.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.feature_engineering.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\T-Gamer\PycharmProjects\PythonProject3\data" />
